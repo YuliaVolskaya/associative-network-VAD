@@ -9,6 +9,7 @@
 
 #### Подготовка данных
 **Методология** подготовки данных на основе (Vankrunkelsven, 2018).
+*Vankrunkelsven, H., Verheyen, S., Storms, G., & De Deyne, S. (2018). Predicting lexical norms: A comparison between a word association model and text-based word co-occurrence models. Journal of Cognition, 1(1), 11.*
 
 
 | Матрица              | Способ формирования                                                                 | Цель                                                                 |
